@@ -1,0 +1,16 @@
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\obj\Debug\net5.0\ödev.csproj.AssemblyReference.cache
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\obj\Debug\net5.0\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\obj\Debug\net5.0\ödev.AssemblyInfoInputs.cache
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\obj\Debug\net5.0\ödev.AssemblyInfo.cs
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\obj\Debug\net5.0\ödev.csproj.CoreCompileInputs.cache
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\bin\Debug\net5.0\ödev.exe
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\bin\Debug\net5.0\ödev.deps.json
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\bin\Debug\net5.0\ödev.runtimeconfig.json
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\bin\Debug\net5.0\ödev.runtimeconfig.dev.json
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\bin\Debug\net5.0\ödev.dll
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\bin\Debug\net5.0\ref\ödev.dll
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\bin\Debug\net5.0\ödev.pdb
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\obj\Debug\net5.0\ödev.dll
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\obj\Debug\net5.0\ref\ödev.dll
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\obj\Debug\net5.0\ödev.pdb
+C:\Users\BurakUclu\Desktop\Pratikler\ödev\obj\Debug\net5.0\ödev.genruntimeconfig.cache
